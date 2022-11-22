@@ -78,9 +78,9 @@
         
         ![image](https://user-images.githubusercontent.com/116808294/203181873-84259fcc-19e9-4e5a-b08c-974cf03911eb.png)
 
-    34.	 Encuentre R1, R2 y R3 en la figura 5-82.
-        
-        ![image](https://user-images.githubusercontent.com/116808294/203181995-4e9c816c-8d6f-4390-b3c9-b79a47b4ad0a.png)
+    34.	Encuentre R1, R2 y R3 en la figura 5-82.
+                
+        ![image](https://user-images.githubusercontent.com/116808294/203184096-25c822e7-fac0-4164-b3b8-2a0833b95494.png)
 
     36.	Con el resultado del problema 35, determine el voltaje a través de cada resistor mostrado en la figura 5-83 para cada posición del interruptor.
         
