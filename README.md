@@ -1,6 +1,25 @@
 # INFORME N° 3
 1. OBJETIVO
+
+    1.1 GENERALES
+
+    •	Estudiar las caracteristicas de los circuitos en paralelo y las diferencias que existen entre este y el circuito en seria.
+    
+    •	Analizar las leyes de Kirchoff, y las formulas que se derivan de estas.
+    
+    •	Emplear las mediciones sobre corriente, voltaje y resistencias aprendidas en capitulos anteriores. 
+    
+    1.2 ESPECIFICOS
+    
+    •	Realizar los ejercicios propuestos en el libro “Principios de Circuitos Electricos” de Floyd.
+    
+    •	Sintetizar la informacion del capitulo 5 y 6 del libro “Principios de Circuitos Electricos” de Floyd.
+
 2. MARCO TEORICO
+
+    ![MECATRONICA](https://user-images.githubusercontent.com/116808294/203440162-a7453eb9-b3ff-437d-a2b0-cdeab8fb4517.jpeg)
+
+
 3. EXPLICACION Y RESOLUCIÓN DE EJERCICIOS
     
     SECCIÓN 5–1 RESISTORES EN SERIE
