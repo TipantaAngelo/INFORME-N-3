@@ -18,7 +18,18 @@
 2. MARCO TEORICO
 
     ![MECATRONICA](https://user-images.githubusercontent.com/116808294/203440162-a7453eb9-b3ff-437d-a2b0-cdeab8fb4517.jpeg)
-
+    
+    ![MECATRONICA (1)](https://user-images.githubusercontent.com/116808294/203445334-dadd83d7-c2c7-41c7-95a6-040a2b97ab8e.jpeg)
+    
+    ![MECATRONICA (2)](https://user-images.githubusercontent.com/116808294/203446494-3e02bf19-edbd-4046-b084-6f66811f76db.jpeg)
+    
+    ![MECATRONICA (3)](https://user-images.githubusercontent.com/116808294/203447701-49a085fe-f926-42cb-99f3-1e270d739174.jpeg)
+    
+    ![MECATRONICA (4)](https://user-images.githubusercontent.com/116808294/203448641-b5a1d9f0-fed9-4110-8e1a-afb8f1e3607a.jpeg)
+    
+    ![MECATRONICA (5)](https://user-images.githubusercontent.com/116808294/203450231-026d65ad-a061-4bbe-8c27-c3013f95c707.jpeg)
+    
+    
 
 3. EXPLICACION Y RESOLUCIÓN DE EJERCICIOS
     
