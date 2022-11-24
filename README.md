@@ -285,3 +285,30 @@
     46.	¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5,55 mA?
         
         ![image](https://user-images.githubusercontent.com/116808294/203429173-8e32347b-2796-4c1d-b6c9-8d5985bf49fa.png)
+
+4. VIDEO
+
+    https://youtu.be/WcRKsET7Mh4
+
+5. CONCLUSIONES
+
+    Gracias a la sintetizacion de la información de logro entender de una manera optima las leyes de Kirchhoff y las aplicaciones que estas tienen.
+    
+    Se logro comprender las diferencias que existen entre los circuitos en serie y paralelos, y las formulas que se deben emplear en cada caso.
+    
+    SE reforzo también los conocimientos existentes sobre la ley de OHM ya que fue necesaria para resolver ciertos ejercicios.
+    
+    Se pudo trabajar con calculos de la corriente, voltaje y resistencia totales teniendo en cuenta el tipo de circuito y condiciones, lo cuál fue muy importante de aprender.
+        
+
+6. BIBLIOGRAFIA
+
+    • Floyd, T. L., Salas, R. N., González, L. M. O., & López, G. P. (2007). Principios de circuitos eléctricos. Pearson Educación.
+
+    • Nilsson, J. W., Riedel, S. A., Cázares, G. N., & Fernández, A. S. (1995). Circuitos eléctricos. Addison-Wesley.
+
+    • Ingaruca Orihuela, F. J. (2022). Videotutoriales para el aprendizaje de circuitos eléctricos en estudiantes del Instituto de Educación Superior Tecnológico Público Pasco.
+
+    • Sáenz, E. M., de la Cruz, J. P., & Garzón, H. S. (2012). Fundamentos de circuitos eléctricos II. Universidad del Valle. Programa Editorial.
+
+    • Usaola, J., Moreno, M., Hambley, A., & Sierra, M. (2003). Circuitos eléctricos. Universitario, 77.
